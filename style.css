@@ -296,7 +296,7 @@ footer{
     background-color: rgb(244, 245, 247);
     color:red;
     border-radius: 20px;
-    text-shadow: 49px -4px 18px darkred;
+/*     text-shadow: 49px -4px 18px darkred; */
 }
 
 .h-secondary {
