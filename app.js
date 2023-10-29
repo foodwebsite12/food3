@@ -11,7 +11,7 @@ setInterval(() => {
     
     sonu.style.backgroundColor = "red";
     
-    home.style.background ="url(/image/bulkfood.jpg)";
+    home.style.background ="url(image/bulkfood.jpg)";
 
 
     servicesDescription.style.color="red";
@@ -23,7 +23,7 @@ setInterval(() => {
 
     sonu.style.backgroundColor = "blue";
 
-    home.style.background ="url(/image/tastyfood.jpg)";
+    home.style.background ="url(image/tastyfood.jpg)";
 
 
     servicesDescription.style.color="blue";
@@ -36,7 +36,7 @@ setInterval(() => {
 
     sonu.style.backgroundColor = "green";
 
-    home.style.background ="url(/image/tasty2.jpg)";
+    home.style.background ="url(image/tasty2.jpg)";
 
 
     servicesDescription.style.color="green";
