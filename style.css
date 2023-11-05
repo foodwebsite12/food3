@@ -25,6 +25,7 @@ html{
     position: sticky;
     top: 0px;
     background-color:red;   
+    z-index:1;
 }
 
 /* Navigation Bar  logo and image */
